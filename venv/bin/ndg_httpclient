@@ -1,4 +1,4 @@
-#!/home/pickle_slime/div_of_projects/python_folder/online_shop/market-place/electro/venv/bin/python
+#!/home/pickle_slime/div_of_projects/python_folder/online_shop/market-place/modular_monolith/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

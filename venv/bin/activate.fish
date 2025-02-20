@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/pickle_slime/div_of_projects/python_folder/online_shop/market-place/electro/venv
+set -gx VIRTUAL_ENV /home/pickle_slime/div_of_projects/python_folder/online_shop/market-place/modular_monolith/venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
